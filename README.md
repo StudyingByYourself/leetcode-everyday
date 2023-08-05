@@ -121,4 +121,4 @@ https://github.com/StudyingByYourself/leetcode-everyday/blob/main/leetcode0367.c
 
 #### [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/)
 
-![屏幕截图 2023-07-30 141455.png](https://pic.leetcode.cn/1690697707-QQlZqm-%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-07-30%20141455.png)
+![](https://clion-1314864710.cos.ap-shanghai.myqcloud.com/imgs/blog/leetcode142.webp)
