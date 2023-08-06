@@ -122,3 +122,30 @@ https://github.com/StudyingByYourself/leetcode-everyday/blob/main/leetcode0367.c
 #### [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/)
 
 ![](https://clion-1314864710.cos.ap-shanghai.myqcloud.com/imgs/blog/leetcode142.webp)
+
+## 哈希表
+
+### 有效的字母异位词
+
+#### [242. 有效的字母异位词](https://leetcode.cn/problems/valid-anagram/)
+
+#### [383. 赎金信](https://leetcode.cn/problems/ransom-note/)
+
+### 两个数组的交集
+
+#### [349. 两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/)
+
+#### [350. 两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/)
+
+#### [1. 两数之和](https://leetcode.cn/problems/two-sum/)
+
+#### [454. 四数相加 II](https://leetcode.cn/problems/4sum-ii/)
+
+## 字符串
+
+#### [344. 反转字符串](https://leetcode.cn/problems/reverse-string/)
+
+#### [541. 反转字符串 II](https://leetcode.cn/problems/reverse-string-ii/)
+
+#### [剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)
+
